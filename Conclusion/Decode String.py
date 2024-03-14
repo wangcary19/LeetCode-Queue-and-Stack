@@ -30,4 +30,4 @@ for x in s:
 #end-for
 
 return output + word_cache
-"""D
+"""
